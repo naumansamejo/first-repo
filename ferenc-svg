@@ -1,4 +1,4 @@
-
+<style>
 .wrap{
     position: relative;
     max-width: 1170px;
@@ -58,6 +58,9 @@
 .floorplan > a.active{
     display: block;
 }
+
+
+</style>
 
 
 
