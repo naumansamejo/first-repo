@@ -1,7 +1,7 @@
 <a id="flr0" href="https://www.edisonvilla.hu/foldszinti-lakasok">
                 <div class="flplan img">
         
-                    <img src="img/floor0.png" alt="">
+                    <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb82811040898cb_floor0.png" alt="">
         
         
                     <div class="mask">
@@ -25,7 +25,7 @@
                         </svg>
 
 
-                        <img src="img/floor0.png" class="img-back" alt="">
+                        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb82811040898cb_floor0.png" class="img-back" alt="">
                     </div>
 
 
@@ -55,7 +55,7 @@
             
                 <div class="flplan img">
         
-                    <img src="img/floor1.png" alt="">
+                    <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bf608df1f3c18207f_floor1.png" alt="">
         
         
                     <div class="mask">
@@ -118,7 +118,7 @@
                             </g>
                         </svg>
                         
-                        <img src="img/floor1.png" class="img-back" alt="">
+                        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bf608df1f3c18207f_floor1.png" class="img-back" alt="">
                     </div>
 
 
@@ -160,7 +160,7 @@
             <a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr2">
                 <div class="flplan img">
         
-                    <img src="img/floor2.png" alt="">
+                    <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb8284ea40898c9_floor2.png" alt="">
         
         
                     <div class="mask">
@@ -225,7 +225,7 @@
                         </svg>
                         
 
-                        <img src="img/floor2.png" class="img-back" alt="">
+                        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb8284ea40898c9_floor2.png" class="img-back" alt="">
                     </div>
 
 
@@ -267,7 +267,7 @@
             <a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr3">
                 <div class="flplan img">
         
-                    <img src="img/floor3.png" alt="">
+                    <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bb4f8d2456206285f_floor3.png" alt="">
         
         
                     <div class="mask">
@@ -331,7 +331,7 @@
                             </svg>
 
 
-                        <img src="img/floor3.png" class="img-back" alt="">
+                        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bb4f8d2456206285f_floor3.png" class="img-back" alt="">
                     </div>
 
 
