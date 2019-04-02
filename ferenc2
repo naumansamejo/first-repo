@@ -451,4 +451,9 @@
 .flplan.grey > img{
     filter: grayscale(100%);
 }
+
+
+.flplan .mask{
+  background-image: none !important;
+}
 </style>
