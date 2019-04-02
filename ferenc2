@@ -1,4 +1,4 @@
-<a id="flr0" href="https://www.edisonvilla.hu/foldszinti-lakasok">
+<a class="active" id="flr0" href="https://www.edisonvilla.hu/foldszinti-lakasok">
                 <div class="flplan img">
         
                     <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb82811040898cb_floor0.png" alt="">
@@ -455,5 +455,10 @@
 
 .flplan .mask{
   background-image: none !important;
+}
+
+.mask > svg tspan{
+    font-size: 20px;
+    letter-spacing: 0;
 }
 </style>
