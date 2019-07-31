@@ -38,9 +38,16 @@
 
 
 
-.flink[active],
-.flink:hover{
+.flink[active]{
     opacity: 1;
+}
+
+#floors:hover .flink[active]{
+opacity: 0;
+}
+
+.flink:hover{
+    opacity: 1 !important;
     cursor: pointer;
 }
 
