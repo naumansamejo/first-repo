@@ -170,7 +170,7 @@
             </a>
 
 
-            <a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr2">
+            <a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr2" class="active">
                 <div class="flplan img">
         
                     <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb8284ea40898c9_floor2.png" alt="">
